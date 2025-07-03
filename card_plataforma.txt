@@ -1,0 +1,7 @@
+<div className="flex items-center gap-2">
+            <Gamepad2 className="h-4 w-4 text-red-500" />
+            <p className="font-light text-zinc-300 dark:text-zinc-400">
+              <span className="text-red-400 dark:text-red-500">Plataforma:</span> {data.plataforma}
+            </p>
+          </div>
+        </div> 
